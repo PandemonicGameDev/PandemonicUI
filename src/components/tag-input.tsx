@@ -142,7 +142,7 @@ export default function TagInput({
 						}
 					}}
 					placeholder={placeholder}
-					className="w-full border rounded-md px-2 py-1 focus:outline-none focus:ring-2 focus:ring-ring"
+					className="w-full px-2 py-1"
 				/>
 			</div>
 

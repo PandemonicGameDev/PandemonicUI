@@ -54,15 +54,15 @@ function StarSlider({
 							}%] aspect-square flex-shrink-0`}
 						>
 							<Star
-								className="top-0 right-0 absolute w-full h-full text-gray-300"
-								// style={{
-								// 	position: "absolute",
-								// 	top: 0,
-								// 	left: 0,
-								// 	width: "100%",
-								// 	height: "100%",
-								// 	color: "#d1d5db",
-								// }}
+								className="top-0 right-0 absolute w-full h-full text-black-300"
+								style={{
+									position: "absolute",
+									top: 0,
+									left: 0,
+									width: "100%",
+									height: "100%",
+									color: "#d1d5db",
+								}}
 							/>
 
 							<div

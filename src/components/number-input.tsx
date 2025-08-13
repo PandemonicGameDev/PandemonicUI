@@ -32,6 +32,8 @@ interface NumberInputProps {
 	variant?: "primary" | "secondary" | "outline" | "ghost" | "danger";
 }
 
+("px-2 h-full py-1 border hover:bg-gray-100 transition-colors select-none cursor-pointer disabled:cursor-default disabled:opacity-50 disabled:hover:bg-transparent");
+
 const buttonVariants = {
 	primary: "bg-primary text-primary-foreground shadow-xs hover:bg-primary/90",
 	secondary:

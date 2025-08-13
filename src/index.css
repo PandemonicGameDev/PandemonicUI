@@ -54,6 +54,8 @@
 	--shadow-2xl: 0px 2px 3px 0px hsl(28 18% 25% / 0.45);
 	--tracking-normal: 0em;
 	--spacing: 0.25rem;
+
+	--default-transition-duration: 1s;
 }
 
 .dark {
